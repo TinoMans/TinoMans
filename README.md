@@ -3,8 +3,8 @@
 My name is Valentino, and I'm a CSUS student interested in cybersecurity and software development!
 
 - 🔭 I’m currently working on ZeusVolunteers, a website for finding community events in your area.
-- 🌱 I’m currently learning the MERN stack, along with other platform building tools (HTML, CSS, etc.) in my Software Development class.
-- 👯 I’m looking to collaborate on my upcoming senior project! My school email is valentinoochoa@csus.edu if you are a CS senior next year!
+- 🌱 I’m currently learning the MERN stack, along with other platform building tools in my Software Development class.
+- 👯 I’m looking to collaborate with other CS seniors on my upcoming senior project next year!
 
 
 <!--
